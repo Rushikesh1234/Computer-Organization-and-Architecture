@@ -1,4 +1,4 @@
- * _MATRIXMUL_GPU_CU_
+ /* _MATRIXMUL_GPU_CU_
  *
  * 2022
  *
